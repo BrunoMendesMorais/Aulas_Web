@@ -16,7 +16,6 @@ function dobrarNumeros(numeros:number[]){
         numeraisDobro.push(n.valueOf()*2)
     }
 }
-dobrarNumeros(numerais)
 
 for(let n of numeraisDobro){
     console.log(n)
@@ -70,3 +69,6 @@ const eventos:Evento[] = [
 const mesDesejado: string = "Janeiro"
 
 let mesFiltrado:Evento[] = eventos.filter(eventos => eventos.mes === mesDesejado)
+
+// Exercocio Aula 6
+
