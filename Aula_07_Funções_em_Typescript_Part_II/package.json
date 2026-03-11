@@ -1,0 +1,25 @@
+{
+  "name": "aulas_web",
+  "version": "1.0.0",
+  "description": "---\r ## Aula 2\r ### Introdução a versionamento\r Comandos para configuração de usario e email\r ```\r git config --global user.name \"seuNomeGitHub\"\r git config --global user.email \"seuEmail\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoMendesMorais/Aulas_Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoMendesMorais/Aulas_Web/issues"
+  },
+  "homepage": "https://github.com/BrunoMendesMorais/Aulas_Web#readme",
+  "dependencies": {
+    "@types/node": "^25.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
