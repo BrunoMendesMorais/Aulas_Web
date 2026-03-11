@@ -16,3 +16,4 @@ const listaFormatada = produto.map(p=>({
     label: `${p.nome} - R$ ${p.preco.toFixed(2)}`,
     disponivel:true
 }))
+
