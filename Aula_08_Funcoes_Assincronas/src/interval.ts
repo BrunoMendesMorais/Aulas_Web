@@ -4,7 +4,7 @@ const interval = setInterval(()=>{
     contador ++
     console.log(contador)
     if(contador === 4){
-        console.log("Intervalor Cancelado")
+        console.log("Intervalo Cancelado")
         clearInterval(interval)
     }
 },700)

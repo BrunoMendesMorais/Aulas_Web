@@ -9,7 +9,7 @@ if(frase !== "Rodando time out"){
     console.log(frase);
 }
 
-console.log("depois do time out")
+console.log("depois do time")
 
 
 
