@@ -1,4 +1,4 @@
-# Aulas de Programação Web - 2026
+# Aulas de Programação Para Web - 2026
 ---
 ## Aula 2
 ### Introdução a versionamento
